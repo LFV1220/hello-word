@@ -1,4 +1,4 @@
 # hello-word
 My first repository 
 
-Hello! I'm Frankie (my nickname) and I want to learn more about python and java.
+Hello! I'm Luis, usually go by Frankie, and I am interested in learning more about computer science.
